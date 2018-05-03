@@ -1,7 +1,1 @@
-qqq
-
-<<<<<<< HEAD
-local changes
-=======
-remote changes
->>>>>>> 54bbac3c93382bd26a4ca055c7253a6c25d17b26
+something
